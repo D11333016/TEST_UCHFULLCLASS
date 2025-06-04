@@ -1,0 +1,2 @@
+# TEST_UCHFULLCLASS
+測試
